@@ -1,0 +1,4 @@
+{
+  "name": "Python Project",
+  "postCreateCommand": "python -c 'from codespaces_utils import install_gcloud_cli; install_gcloud_cli()'"
+}
